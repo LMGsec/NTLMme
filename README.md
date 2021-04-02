@@ -12,11 +12,15 @@ NTLM Hash Generator and String Converter.
 
 optional arguments:
   -h, --help            show this help message and exit
+  
   -i INPUTFILE, --inputfile INPUTFILE
                         File to read strings from.
+                        
   -o OUTPUTFILE, --outputfile OUTPUTFILE
                         File to write hashes to.
+                        
   -r RANDOMHASHES, --randomhashes RANDOMHASHES
                         Create specified number of random NTLM hashes.
+                        
   -s SINGLE, --single SINGLE
                         Hashes individual strings.
