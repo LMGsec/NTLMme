@@ -1,6 +1,8 @@
 # NTLMme.py
 NTLM Hash Generator
 
+![NTLMme](https://user-images.githubusercontent.com/81824087/113456981-e126e980-93cb-11eb-9354-b3e969e2c766.png)
+
 ## Description
 NTLMme.py is an NTLM hash generator written in python3.
 
